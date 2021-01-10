@@ -6,3 +6,5 @@ while( start >= end){
     start--;
 
 }
+
+console.log("hello world")
